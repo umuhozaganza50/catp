@@ -16,13 +16,14 @@
             <div class="row">
             <div class="col-md-4"></div>
             <div class="col-md-4 card pt-5" >
-                <center><h3>Connect to IREMBO</h3></center>
+            
+                <center>UMUHOZA Alice <br>umuhozaalice50@gmail.com</center>
 
                 <div class="row col-sm-12" style="height:15vh;"></div>
                 <form method="post">
                     
                     <div class="form-group pt-3 pb-5">
-                      <center> <input type="submit"name ="btn" value="Continue with Facebook" 
+                      <center> <input type="submit"name ="btn" value="Logout" 
                       class="btn bg-primary text-white"></center>
                       
                     </div>
